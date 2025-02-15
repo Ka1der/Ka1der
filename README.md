@@ -22,8 +22,16 @@ I'm a Swift developer specializing in iOS application development.
 
 If you have any questions or suggestions, please feel free to contact me.
 
+## Examples of projects
+
 ### MovieQuiz
 **Description:** A quiz application with questions about the top movies from IMDb Top 250.
 
-| <img src="https://github.com/yandex-practicum-ios/MovieQuiz-ios-requirements/blob/main/Resources/demo.gif" alt="MovieQuiz Demo" width="200" /> | **Key Features:**<br>- Quiz questions<br>- Score tracking<br>- Fun animations |
+| <img src="https://github.com/yandex-practicum-ios/MovieQuiz-ios-requirements/blob/main/Resources/demo.gif" alt="MovieQuiz Demo" width="200" /> | 
+**Основные функции:**<br>
+- Викторина с вопросами о популярных фильмах.
+- Интеграция с RESTful API для загрузки данных о фильмах.
+- Полное покрытие тестами.
+
+Технологии: UIKit, RESTful API, GCD, UserDefaults, MVP, Unit Tests, UI Tests.<br>- Fun animations |
 |:---:|:---|
