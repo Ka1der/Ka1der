@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Kaider!
 
-<!--
-**Ka1der/Ka1der** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Swift developer specializing in iOS application development.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Swift, UIKit, SwiftUI
+- REST API, WebSocket
+- GCD, Async/Await
+- OAuth 2.0
+- MVC, MVP, MVVM
+- CoreData, Realm
+- CocoaPods, Swift Package Manager (SPM)
+- Unit Tests, UI Tests, Snapshot Tests
+- Git, GitHub
+
+## Contacts
+
+- 📫 Email: [kronoz@yandex.ru](mailto:kronoz@yandex.ru)
+- 📱 Telegram: [@Ebyrot](https://t.me/Ebyrot)
+- 💼 LinkedIn: [Your Profile](https://www.linkedin.com/in/your_profile)
+
+If you have any questions or suggestions, please feel free to contact me.
