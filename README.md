@@ -37,7 +37,7 @@ If you have any questions or suggestions, please feel free to contact me.
         <li>Интеграция с RESTful API для загрузки данных о фильмах.</li>
         <li>Полное покрытие тестами.</li>
         <li>Технологии: UIKit, RESTful API, GCD, UserDefaults, MVP, Unit Tests, UI Tests.</li>
-         <li><a href="https://github.com/Ka1der" target="_blank"> MovieQuiz GitHub repository</a></li>
+        <li><a href="https://github.com/Ka1der/MovieQuiz" target="_blank"> MovieQuiz GitHub repository</a></li>
       </ul>
     </td>
   </tr>
