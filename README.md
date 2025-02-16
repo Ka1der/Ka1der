@@ -18,7 +18,7 @@ I'm a Swift developer specializing in iOS application development.
 
 - 📫 Email: [kronoz@yandex.ru](mailto:kronoz@yandex.ru)
 - 📱 Telegram: [@Ebyrot](https://t.me/Ebyrot)
-- 💼 LinkedIn: [Your Profile](https://www.linkedin.com/in/your_profile)
+- 💼 LinkedIn: [Kaider](https://www.linkedin.com/in/yaroslav-ruban-463779338)
 
 If you have any questions or suggestions, please feel free to contact me.
 
