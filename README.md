@@ -1,6 +1,7 @@
 # Hi, I'm Kaider!
 
-I am developing iOS applications with Swift.
+I develop iOS applications using Swift. 
+I’m passionate about creating convenient and functional mobile solutions.
 
 ## Tech Stack
 
