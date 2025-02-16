@@ -1,6 +1,6 @@
 # Hi, I'm Kaider!
 
-I am developing iOS applications in Swift.
+I am developing iOS applications with Swift.
 
 ## Tech Stack
 
